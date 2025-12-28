@@ -9,7 +9,7 @@ https://github.com/Maturol/RT5-51-Sharafutdinov-Blood-Loss-Calculation-Frontend
 https://github.com/Maturol/RT5-51-Sharafutdinov-Blood-Loss-Calculation-Async-Service
 
 GitHub Pages:
-https://maturol.github.io/RT5-51-SharafutdinovMartin-RIPFrontend/
+https://maturol.github.io/RT5-51-Sharafutdinov-Blood-Loss-Calculation-Frontend
 
 Ветка Tauri приложения:
 https://github.com/Maturol/RT5-51-Sharafutdinov-Blood-Loss-Calculation-Frontend/tree/Tauri
